@@ -147,7 +147,7 @@ header .header-text3{
   margin-top: 30px;
   width: 50%;
   height: 100%;
-  background-image: linear-gradient( rgba(30, 30, 30, 0.8), rgba(30, 30, 30, 0.8) ), url("./img/bg_pattern.png");
+  background-image: linear-gradient( rgba(30, 30, 30, 0.8), rgba(30, 30, 30, 0.8) ), url("../img/bg_pattern.png");
 }
 .visual_left .inner{
   width: 90%;
